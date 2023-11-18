@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/smart-event-decor/static/css/main.018ff863.css",
+    "main.js": "/smart-event-decor/static/js/main.9a42c08d.js",
+    "static/media/fVideo.mp4": "/smart-event-decor/static/media/fVideo.64f2ab7aa454a33d6fc0.mp4",
+    "static/media/mocktailVideo.mp4": "/smart-event-decor/static/media/mocktailVideo.a67a1f9d39262285f879.mp4",
+    "static/media/img2.jpg": "/smart-event-decor/static/media/img2.36829c4c26bf3bb4867b.jpg",
+    "static/media/img5.jpg": "/smart-event-decor/static/media/img5.1fb03a19b02f80ee97be.jpg",
+    "static/media/welcome.jpg": "/smart-event-decor/static/media/welcome.bc637410b20b74e40f36.jpg",
+    "static/media/img7.jpg": "/smart-event-decor/static/media/img7.1e554e62519554c42b62.jpg",
+    "static/media/img6.jpg": "/smart-event-decor/static/media/img6.70a8ae93fb7837d07c71.jpg",
+    "static/media/img8.jpg": "/smart-event-decor/static/media/img8.a642e0cf97fc921451be.jpg",
+    "static/media/img4.jpg": "/smart-event-decor/static/media/img4.c0dfdad269dd67d3d1c8.jpg",
+    "static/media/img9.jpg": "/smart-event-decor/static/media/img9.9c555c82207331aa3d27.jpg",
+    "static/media/img1.jpg": "/smart-event-decor/static/media/img1.a0ce747a6fe491dd94b4.jpg",
+    "static/media/img3.jpg": "/smart-event-decor/static/media/img3.e9959d8e4b5c3c1be479.jpg",
+    "static/media/img10.jpg": "/smart-event-decor/static/media/img10.74c740ef0b93f3dcf2ee.jpg",
+    "static/media/mocktailBack.jpg": "/smart-event-decor/static/media/mocktailBack.fb67bb196258cd78e2ca.jpg",
+    "static/media/img21.jpg": "/smart-event-decor/static/media/img21.d772f671d8630132f3ed.jpg",
+    "static/media/fruit.jpg": "/smart-event-decor/static/media/fruit.e056e4444eb63f6aacc9.jpg",
+    "static/media/img11.jpg": "/smart-event-decor/static/media/img11.a6f255d3a93581ede002.jpg",
+    "static/media/img14.jpg": "/smart-event-decor/static/media/img14.7b3c248b91171a38859d.jpg",
+    "static/media/img12.jpg": "/smart-event-decor/static/media/img12.9bcc55375babc34a484d.jpg",
+    "static/media/proBack.jpg": "/smart-event-decor/static/media/proBack.a0ce747a6fe491dd94b4.jpg",
+    "static/media/img13.jpg": "/smart-event-decor/static/media/img13.eff7fa3783bb907758ad.jpg",
+    "index.html": "/smart-event-decor/index.html",
+    "main.018ff863.css.map": "/smart-event-decor/static/css/main.018ff863.css.map",
+    "main.9a42c08d.js.map": "/smart-event-decor/static/js/main.9a42c08d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018ff863.css",
+    "static/js/main.9a42c08d.js"
+  ]
+}
