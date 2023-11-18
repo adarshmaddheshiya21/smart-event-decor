@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smart-event-decor/static/css/main.018ff863.css",
-    "main.js": "/smart-event-decor/static/js/main.9a42c08d.js",
+    "main.js": "/smart-event-decor/static/js/main.740496d6.js",
     "static/media/fVideo.mp4": "/smart-event-decor/static/media/fVideo.64f2ab7aa454a33d6fc0.mp4",
     "static/media/mocktailVideo.mp4": "/smart-event-decor/static/media/mocktailVideo.a67a1f9d39262285f879.mp4",
     "static/media/img2.jpg": "/smart-event-decor/static/media/img2.36829c4c26bf3bb4867b.jpg",
@@ -25,10 +25,10 @@
     "static/media/img13.jpg": "/smart-event-decor/static/media/img13.eff7fa3783bb907758ad.jpg",
     "index.html": "/smart-event-decor/index.html",
     "main.018ff863.css.map": "/smart-event-decor/static/css/main.018ff863.css.map",
-    "main.9a42c08d.js.map": "/smart-event-decor/static/js/main.9a42c08d.js.map"
+    "main.740496d6.js.map": "/smart-event-decor/static/js/main.740496d6.js.map"
   },
   "entrypoints": [
     "static/css/main.018ff863.css",
-    "static/js/main.9a42c08d.js"
+    "static/js/main.740496d6.js"
   ]
 }
