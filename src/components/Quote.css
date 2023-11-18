@@ -1,0 +1,25 @@
+.quote{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 20px 0;
+    justify-content: center;
+    background-color: #F1F0E8;
+    padding: 6rem 0;
+}
+
+@media screen and (max-width: 767px) {
+    .quote{
+        font-size: 1rem;
+        padding: 4rem 2rem;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .quote{
+        font-size: 0.95rem;
+        padding: 4rem 2rem;
+    }
+}

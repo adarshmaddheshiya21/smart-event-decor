@@ -1,0 +1,18 @@
+.heading {
+    margin: 0;
+    padding: 4rem 0 1rem 0;
+    text-align: center;
+    font-size: 3.1rem;
+    color: #000;
+    background-color: #F1F0E8;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media screen and (max-width: 767px) {
+
+    .heading {
+        font-size: 2.2rem;
+        padding: 2rem 0 0 0;
+    }
+}

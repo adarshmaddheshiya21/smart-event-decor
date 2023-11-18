@@ -1,0 +1,18 @@
+
+.menu-section{
+    width: 100%;
+}
+.dis-heading{
+    background-color: rgb(0, 184, 184);
+    text-align: center;
+}
+.menu-section h1{
+    color: white;
+    display: inline-block;
+    font-size: 3.5rem;
+    margin-top: 60px; 
+
+}
+.display{
+    /* background-color: aqua; */
+}

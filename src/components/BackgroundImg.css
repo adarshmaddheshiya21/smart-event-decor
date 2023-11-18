@@ -1,0 +1,38 @@
+.welcome{
+    background-color: #F1F0E8;
+}
+.welcome img{
+    width: 100%;
+    height: 580px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left 20% right 0;
+    transition: 0.3s ease-in-out;
+    z-index: 2;
+}
+
+.welcome img:hover{
+    transform: scale(1.005);
+}
+
+@media screen and (max-width: 767px){
+    .welcome img{
+        width: 100%;
+        height: 280px;
+        position: relative;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: left 20% right 0;
+        transition: 0.3s ease-in-out;
+    }
+    .welcome img:hover{
+        transform: scale(1.005);
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .welcome img{
+        width: 100%;
+        height: 285px;
+    }
+}
